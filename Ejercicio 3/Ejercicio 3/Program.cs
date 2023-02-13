@@ -74,6 +74,10 @@ namespace Ejercicio_3
                     Console.WriteLine("\tPrograma para saber el funcionamiento de compuertas lógicas\n");
                     Console.WriteLine("\tUsted ha escogido salir del programa, tenga buen dia!...\n");
                     break;
+                default:
+                    Console.Clear();
+                    Console.WriteLine("\n\tOpción no valida...");
+                    break;
 
             }
             Console.ForegroundColor = ConsoleColor.White;
