@@ -29,7 +29,7 @@ namespace ConsoleApp9
             else
             {
                 ss = h * s;
-                Console.WriteLine("\tUsted a trabajado el minimo indispensable por ense su salario base de" +" "+ ss + "$" +" "+ "se mantiene");
+                Console.WriteLine("\tUsted a trabajado el minimo indispensable por ende su salario base de" +" "+ ss + "$" +" "+ "se mantiene");
             }
 
             Console.WriteLine("\t\t\t\t\t**************************************");
